@@ -1,18 +1,8 @@
-## Getting Started
+Criando um exemplo de uma classe para representar uma SmartTv onde:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. Ela tenha as características: ligada(boolean), canal(int) e volume(int);
+2. Nossa TV poderá ligar e desligar e assim mudar o estado;
+3. Nossa Tv aumentará e diminuirá o volume sempre +1 ou -1;
+4. Nossa Tv poderá mudar de canal de 1 em 1 ou definindo o número correspondente.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* Exercício referente a aula03 - métodos - curso apredendo SintaxeJava da DIO.
